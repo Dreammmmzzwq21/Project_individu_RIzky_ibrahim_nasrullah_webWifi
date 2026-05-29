@@ -208,7 +208,7 @@
 
 {{-- NAVBAR --}}
 <nav class="top-navbar">
-    <a href="{{ route('admin.dashboard') }}" class="nav-brand">FAIZI<span>FY</span></a>
+    <a href="{{ route('admin.dashboard') }}" class="nav-brand">UNDO<span>NET</span></a>
     <div class="nav-menu-wrapper">
         <a href="{{ route('admin.dashboard') }}" class="nav-item-link">
             <i class="bi bi-grid-1x2"></i> Dashboard

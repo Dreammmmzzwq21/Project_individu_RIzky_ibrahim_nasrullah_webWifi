@@ -357,7 +357,7 @@
 
                 <div class="mt-4">
                     <div class="brand-logo mb-4">
-                        <img src="{{ asset('storage/logoperusahaanfaiziy.png') }}" alt="UNDONET Logo">
+                        <img src="{{ asset('storage/logoUNDONET.png') }}" alt="UNDONET Logo">
                     </div>
                     <h1>Buat akun untuk menikmati layanan internet yang lebih mudah.</h1>
                     <p>

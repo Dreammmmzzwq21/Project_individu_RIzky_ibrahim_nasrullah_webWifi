@@ -141,7 +141,7 @@
         <div class="container px-lg-5">
 
             <a class="navbar-brand" href="{{ route('home') }}">
-                <img src="{{ asset('storage/logoperusahaanfaiziy.png') }}" alt="UNDONET Logo">
+                <img src="{{ asset('storage/logoUNDONET.png') }}" alt="UNDONET Logo">
             </a>
 
             <button class="navbar-toggler border-0 shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
