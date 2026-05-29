@@ -107,7 +107,7 @@
 </style>
 
 <nav class="top-navbar">
-    <a href="#" class="nav-brand">FAIZI<span>FY</span></a>
+    <a href="#" class="nav-brand">UNDO<span>NET</span></a>
 
     <div class="nav-menu-wrapper">
         <a href="{{ route('admin.dashboard') }}" class="nav-item-link">
