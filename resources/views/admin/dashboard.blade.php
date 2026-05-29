@@ -641,7 +641,7 @@
 
 <nav class="admin-navbar">
     <div class="inner">
-        <a href="{{ route('admin.dashboard') }}" class="brand">UNDON<span>ET</span></a>
+        <a href="{{ route('admin.dashboard') }}" class="brand">UNDONET</span></a>
 
         <div class="nav-pills">
             <a href="{{ route('admin.dashboard') }}" class="nav-pill active"><i class="bi bi-grid-1x2"></i> Dashboard</a>
